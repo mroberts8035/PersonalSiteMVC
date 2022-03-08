@@ -353,6 +353,7 @@
     <Content Include="Content\assets\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="Content\assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="Content\assets\vendor\typed.js\typed.min.js.map" />
+    <Content Include="configs\AppSecretKeys.config" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -429,7 +430,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="configs\" />
     <Folder Include="Models\" />
     <Folder Include="Scripts\_OriginalScripts\" />
   </ItemGroup>
