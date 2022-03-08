@@ -135,14 +135,14 @@
     <Compile Include="_Archive\PersonalSite\Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\bootstrap-theme.css" />
-    <Content Include="Content\bootstrap-theme.min.css" />
-    <Content Include="Content\bootstrap.css" />
-    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\_OriginalContent\bootstrap-theme.css" />
+    <Content Include="Content\_OriginalContent\bootstrap-theme.min.css" />
+    <Content Include="Content\_OriginalContent\bootstrap.css" />
+    <Content Include="Content\_OriginalContent\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Content\Site.css" />
+    <Content Include="Content\_OriginalContent\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="_Archive\PersonalSite\.git\ms-persist.xml" />
@@ -637,6 +637,7 @@
     <Content Include="_Archive\PersonalSite\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="_Archive\PersonalSite\obj\Debug\PersonalSite.csproj.CoreCompileInputs.cache" />
     <Content Include="_Archive\PersonalSite\obj\Debug\PersonalSite.csprojAssemblyReference.cache" />
+    <Content Include="Views\Shared\_OriginalLayout.cshtml" />
     <None Include="_Archive\PersonalSite\packages.config" />
     <Content Include="_Archive\PersonalSite\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\.signature.p7s" />
     <Content Include="_Archive\PersonalSite\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" />
@@ -750,10 +751,10 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="Content\bootstrap.min.css.map" />
-    <Content Include="Content\bootstrap.css.map" />
-    <Content Include="Content\bootstrap-theme.min.css.map" />
-    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\_OriginalContent\bootstrap.min.css.map" />
+    <Content Include="Content\_OriginalContent\bootstrap.css.map" />
+    <Content Include="Content\_OriginalContent\bootstrap-theme.min.css.map" />
+    <Content Include="Content\_OriginalContent\bootstrap-theme.css.map" />
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
