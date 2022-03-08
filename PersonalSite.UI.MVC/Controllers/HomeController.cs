@@ -26,5 +26,10 @@ namespace PersonalSite.UI.MVC.Controllers
 
             return View();
         }
+        
+        public ActionResult PortfolioDetails()
+        {
+            return View();
+        }
     }
 }
