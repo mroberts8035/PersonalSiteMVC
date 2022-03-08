@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalSite.UI.MVC", "Pers
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{671F992D-EC9F-407E-AFD2-AD8C0BDEE5FE}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\Visual Studio 2017\Projects\06_MVC1\IntroToMVC\.getignore.xml = ..\..\Visual Studio 2017\Projects\06_MVC1\IntroToMVC\.getignore.xml
+		..\..\Visual Studio 2017\Projects\06_MVC1\IntroToMVC\.getignore = ..\..\Visual Studio 2017\Projects\06_MVC1\IntroToMVC\.getignore
 	EndProjectSection
 EndProject
 Global
