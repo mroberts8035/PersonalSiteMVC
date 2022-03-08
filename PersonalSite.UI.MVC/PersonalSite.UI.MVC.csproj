@@ -413,6 +413,7 @@
     <Content Include="_Archive\PersonalSite\PersonalSite\assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="_Archive\PersonalSite\PersonalSite\assets\vendor\typed.js\typed.min.js.map" />
     <Content Include="Views\Home\PortfolioDetails.cshtml" />
+    <Content Include="Views\Home\FED1Details.cshtml" />
     <None Include="_Archive\PersonalSite\PersonalSite\packages.config" />
     <Content Include="_Archive\PersonalSite\PersonalSite\Web.config" />
     <None Include="_Archive\PersonalSite\PersonalSite\Web.Debug.config">

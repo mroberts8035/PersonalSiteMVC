@@ -31,5 +31,11 @@ namespace PersonalSite.UI.MVC.Controllers
         {
             return View();
         }
+
+        public ActionResult FED1Details()
+        {
+            return View();
+        }
+
     }
 }
