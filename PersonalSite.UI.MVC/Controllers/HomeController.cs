@@ -37,5 +37,15 @@ namespace PersonalSite.UI.MVC.Controllers
             return View();
         }
 
+        public ActionResult ConsoleDetails()
+        {
+            return View();
+        }
+
+        public ActionResult TCFDetails()
+        {
+            return View();
+        }
+
     }
 }
