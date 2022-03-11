@@ -421,6 +421,8 @@
     <Content Include="Views\Home\FED1Details.cshtml" />
     <Content Include="Views\Home\ConsoleDetails.cshtml" />
     <Content Include="Views\Home\TCFDetails.cshtml" />
+    <Content Include="Views\Home\ContactAjax.cshtml" />
+    <Content Include="Views\Home\EmailConfirmation.cshtml" />
     <None Include="_Archive\PersonalSite\PersonalSite\packages.config" />
     <Content Include="_Archive\PersonalSite\PersonalSite\Web.config" />
     <None Include="_Archive\PersonalSite\PersonalSite\Web.Debug.config">
